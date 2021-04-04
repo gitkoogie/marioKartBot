@@ -1,2 +1,2 @@
 # marioKartBot
-Implementation of a simple mario kart bot using image analysis
+Beginning of a simple mario kart bot using image analysis
